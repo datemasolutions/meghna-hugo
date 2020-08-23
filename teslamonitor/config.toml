@@ -132,20 +132,11 @@ icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
+################################ Dutch Language ########################
+[Languages.nl]
+languageName = "nl"
+languageCode = "nl-NL"
+contentDir = "content/nederlands"
 weight = 1
 home = "Home"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
+copyright = "copyright &copy; 2020 [teslamonitor](https://www.teslamonitor.nl) all right reserved"
