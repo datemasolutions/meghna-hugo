@@ -14,6 +14,10 @@
   translation: All
 - id: about
   translation: About Us
+- id: feature
+  translation: Waarom
+- id: advantages
+  translation: Voordelen
 - id: services
   translation: Service
 - id: portfolio
@@ -26,5 +30,9 @@
   translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
+- id: teslacom
+  translation: Tesla.com
+- id: mailinglist
+  translation: Schrijf je in
+- id: android
+  translation: Download de app

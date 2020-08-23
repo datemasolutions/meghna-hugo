@@ -13,38 +13,18 @@ home = "Home"
 languageCode = "nl-NL"
 languageName = "nl"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 7
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 6
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 5
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 3
-[[menu.main]]
-URL = "services"
-name = "services"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
 [[menu.static]]
-URL = "https://themefisher.com/"
-name = "themefisher"
-weight = 1
+URL = "https://play.google.com/store/apps/details?id=nl.datemasolutions.teslamonitor"
+name = "android"
+weight = 80
+[[menu.static]]
+URL = "https://ba16ee91.sibforms.com/serve/MUIEAMbtqHKbQfUGJdAH4s-V8VhWqTdfD-wZ-6TNTdB7uVqnnQmlnvHs-ImlOsTGUyRydL9rkqLVTyoJ_ZTjAWI3WKUCC3lCDcDjQDxPFFZNhwkMOstgN-ljgFc4PvnWzRtiDyDKFhJixV-ZZ_XQcuAZPzY3_gcGMM-aHmjZVNVXE_VNw73M3XxXKQvarnPJfSfMsy30s14pc6tZ"
+name = "mailinglist"
+weight = 90
+[[menu.static]]
+URL = "https://ts.la/jeroen25746"
+name = "teslacom"
+weight = 100
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -85,20 +65,8 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
+icon = "ti-android"
+link = "https://play.google.com/store/apps/details?id=nl.datemasolutions.teslamonitor"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+icon = "ti-email"
+link = "https://ba16ee91.sibforms.com/serve/MUIEAMbtqHKbQfUGJdAH4s-V8VhWqTdfD-wZ-6TNTdB7uVqnnQmlnvHs-ImlOsTGUyRydL9rkqLVTyoJ_ZTjAWI3WKUCC3lCDcDjQDxPFFZNhwkMOstgN-ljgFc4PvnWzRtiDyDKFhJixV-ZZ_XQcuAZPzY3_gcGMM-aHmjZVNVXE_VNw73M3XxXKQvarnPJfSfMsy30s14pc6tZ"

@@ -1,27 +1,32 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  image : images/backgrounds/tesla-transport.jpg
+  image_webp : images/backgrounds/tesla-transport.webp
+  title : Je Tesla Model 3 binnen 2 weken ophalen!
+  content : Zit je ook de hele dag te F5'en op de "snel leverbaar"-pagina van Tesla.com? Of heb je een Model 3 besteld en moet je nog 2 maanden wachten? Ben als eerste op de hoogte als er nieuwe modellen beschikbaar komen. 
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Snel leverbaar
+      icon : ti-bolt # themify icon pack : https://themify.me/themify-icons
+      content : Als eerste op de hoogte als er nieuwe Tesla Model 3's online beschikbaar zijn
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Android app
+      icon : ti-android # themify icon pack : https://themify.me/themify-icons
+      content : Zie alle beschikbare Model 3's in de [app](https://play.google.com/store/apps/details?id=nl.datemasolutions.teslamonitor) en krijg een pushmelding als er nieuwe worden toegevoegd
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Email
+      icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      content : Ontvang de snel leverbare Model 3's in je [inbox](https://ba16ee91.sibforms.com/serve/MUIEAMbtqHKbQfUGJdAH4s-V8VhWqTdfD-wZ-6TNTdB7uVqnnQmlnvHs-ImlOsTGUyRydL9rkqLVTyoJ_ZTjAWI3WKUCC3lCDcDjQDxPFFZNhwkMOstgN-ljgFc4PvnWzRtiDyDKFhJixV-ZZ_XQcuAZPzY3_gcGMM-aHmjZVNVXE_VNw73M3XxXKQvarnPJfSfMsy30s14pc6tZ) en mis niks
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : 1500 km gratis
+      icon : ti-plug # themify icon pack : https://themify.me/themify-icons
+      content : Koop een Tesla via de [referral link](https://ts.la/jeroen25746) en je krijgt 1500 km gratis laden bij de Tesla Superchargers
+
+      # feature item loop
+    - title : Bijtelling van 2020
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : Koop je Tesla nog dit jaar en profiteer van de 8% bijtelling (over de eerste €50.000 in 2020) i.p.v. 12% (over de eerste €40.000 vanaf 2021)

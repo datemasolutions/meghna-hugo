@@ -1,0 +1,16 @@
+############################# Why ###################################
+about:
+  enable : true
+  title : Voordelen
+  about_item :
+  - icon : ti-star # themify icon pack : https://themify.me/themify-icons
+    title : Als eerste op de hoogte
+    content : Je bent als eerste op de hoogte van de nieuwe snel leverbare Tesla Model 3's die online beschikbaar komen.
+
+  - icon : ti-money # themify icon pack : https://themify.me/themify-icons
+    title : Nog dit jaar je auto
+    content : In 2021 gaat de betelling voor elektrische auto's van 8% (over de eerste €50.000) naar 12% (over de eerste €40.000)
+
+  - icon : ti-plug # themify icon pack : https://themify.me/themify-icons
+    title : 1500 km gratis laden
+    content : Als je via een [referral link](https://ts.la/jeroen25746) (persoonlijke link) een Tesla aanschaft, krijg je 1500 km gratis laden bij superchargers van Tesla

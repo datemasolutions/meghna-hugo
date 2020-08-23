@@ -1,11 +1,11 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  bg_image : "images/backgrounds/model-3-hero-desktop-v2.jpg"
+  bg_image_webp : "images/backgrounds/model-3-hero-desktop-v2.webp"
+  title : "Meld je aan voor de mailinglijst!"
+  content : "Schrijf je in voor de mailing en ontvang een mail als er nieuwe Tesla's beschikbaar komen online."
   button:
     enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    label : "Meld je aan!"
+    link : "https://ba16ee91.sibforms.com/serve/MUIEAMbtqHKbQfUGJdAH4s-V8VhWqTdfD-wZ-6TNTdB7uVqnnQmlnvHs-ImlOsTGUyRydL9rkqLVTyoJ_ZTjAWI3WKUCC3lCDcDjQDxPFFZNhwkMOstgN-ljgFc4PvnWzRtiDyDKFhJixV-ZZ_XQcuAZPzY3_gcGMM-aHmjZVNVXE_VNw73M3XxXKQvarnPJfSfMsy30s14pc6tZ"
