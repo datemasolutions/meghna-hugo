@@ -8,7 +8,7 @@ title = "Teslamonitor"
 defaultContentLanguage = "nl"
 [Languages.nl]
 contentDir = "content/nederlands"
-copyright = "copyright &copy; 2020 [Datema Solutions](http://www.datemasolutions.nl) all right reserved"
+copyright = "Copyright &copy; 2020 [Datema Solutions](http://www.datemasolutions.nl) All right reserved"
 home = "Home"
 languageCode = "nl-NL"
 languageName = "nl"
@@ -26,9 +26,9 @@ URL = "https://ts.la/jeroen25746"
 name = "teslacom"
 weight = 100
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
-google_analytics_id = ""
+author = "Datema Solutions"
+description = "Direct leverbare Tesla Model 3's in je inbox of als pushmelding op je telefoon. Was als eerste op de hoogte."
+google_analytics_id = "240980590"
 logo = "images/logo.png"
 post_share = true
 [[params.plugins.css]]
