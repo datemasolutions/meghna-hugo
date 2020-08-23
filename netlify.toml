@@ -1,5 +1,5 @@
 [build]
-  publish = "teslamonitor /public"
+  publish = "teslamonitor/public"
   command = "cd teslamonitor && hugo --gc --themesDir ../.."
   
 [build.environment]
