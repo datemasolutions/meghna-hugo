@@ -8,7 +8,7 @@ sections:
   label: Blog Post
 - type: directory
   path: teslamonitor/content/nederlands/blog
-  label: Post (en)
+  label: Post (nl)
   create: documents
   match: "**/*"
   new_doc_ext: '20191203072044'
@@ -18,7 +18,7 @@ sections:
   label: Author
 - type: directory
   path: teslamonitor/content/nederlands/author
-  label: Author (en)
+  label: Author (nl)
   create: documents
   match: "**/*"
   templates:
