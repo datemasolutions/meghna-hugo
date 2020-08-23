@@ -8,5 +8,5 @@ banner:
   content : "Zit je ook de hele dag te F5’en op de “snel leverbaar”-pagina van Tesla.com? Of heb je een Model 3 besteld en moet je nog 2 maanden wachten? Of is het onzeker of je hem nog dit jaar ontvangt?"
   button:
     enable : true
-    label : "Blijf op de hoogte"
-    link : "#feature"
+    label : "Bekijk de voordelen"
+    link : "#advantages"
