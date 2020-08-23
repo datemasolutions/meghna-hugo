@@ -5,6 +5,7 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Teslamonitor"
+defaultContentLanguage = "nl"
 [Languages.nl]
 contentDir = "content/nederlands"
 copyright = "copyright &copy; 2020 [teslamonitor](https://www.teslamonitor.nl) all right reserved"
