@@ -1,12 +1,14 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/all-wheel-drive.webp"
-  bg_image : "images/backgrounds/all-wheel-drive.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Vind nu je nieuwe Tesla model 3"
-  content : "Zit je ook de hele dag te F5’en op de “snel leverbaar”-pagina van Tesla.com? Of heb je een Model 3 besteld en moet je nog 2 maanden wachten? Of is het onzeker of je hem nog dit jaar ontvangt?"
+  enable: true
+  bg_image_webp: images/backgrounds/all-wheel-drive.webp
+  bg_image: images/backgrounds/all-wheel-drive.jpg
+  icon: ''
+  title: Vind nu je nieuwe Tesla model 3
+  content: Zit je ook de hele dag te F5’en op de “snel leverbaar”-pagina van Tesla.com?
+    Of heb je een Model 3 besteld en moet je nog 2 maanden wachten? Of is het onzeker
+    of je hem nog dit jaar ontvangt? Meld je nu aan of download de app en mis niks.
   button:
-    enable : true
-    label : "Bekijk de voordelen"
-    link : "#advantages"
+    enable: true
+    label: Bekijk de voordelen
+    link: "#advantages"
