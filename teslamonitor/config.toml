@@ -18,8 +18,8 @@ URL = "https://play.google.com/store/apps/details?id=nl.datemasolutions.teslamon
 name = "android"
 weight = 80
 [[menu.static]]
-URL = "https://ba16ee91.sibforms.com/serve/MUIEAMbtqHKbQfUGJdAH4s-V8VhWqTdfD-wZ-6TNTdB7uVqnnQmlnvHs-ImlOsTGUyRydL9rkqLVTyoJ_ZTjAWI3WKUCC3lCDcDjQDxPFFZNhwkMOstgN-ljgFc4PvnWzRtiDyDKFhJixV-ZZ_XQcuAZPzY3_gcGMM-aHmjZVNVXE_VNw73M3XxXKQvarnPJfSfMsy30s14pc6tZ"
-name = "mailinglist"
+URL = "https://twitter.com/teslamonitor_nl"
+name = "twitter"
 weight = 90
 [[menu.static]]
 URL = "https://ts.la/jeroen25746"
@@ -60,5 +60,5 @@ preloader = "images/logo.png"
 icon = "ti-android"
 link = "https://play.google.com/store/apps/details?id=nl.datemasolutions.teslamonitor"
 [[params.social]]
-icon = "ti-email"
-link = "https://ba16ee91.sibforms.com/serve/MUIEAMbtqHKbQfUGJdAH4s-V8VhWqTdfD-wZ-6TNTdB7uVqnnQmlnvHs-ImlOsTGUyRydL9rkqLVTyoJ_ZTjAWI3WKUCC3lCDcDjQDxPFFZNhwkMOstgN-ljgFc4PvnWzRtiDyDKFhJixV-ZZ_XQcuAZPzY3_gcGMM-aHmjZVNVXE_VNw73M3XxXKQvarnPJfSfMsy30s14pc6tZ"
+icon = "ti-twitter"
+link = "https://twitter.com/teslamonitor_nl"

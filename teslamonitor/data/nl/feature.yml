@@ -17,9 +17,14 @@ feature:
       content : Zie alle beschikbare Model 3's in de [app](https://play.google.com/store/apps/details?id=nl.datemasolutions.teslamonitor) en krijg een pushmelding als er nieuwe worden toegevoegd
 
       # feature item loop
-    - title : Email
-      icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      content : Ontvang de snel leverbare Model 3's in je [inbox](https://ba16ee91.sibforms.com/serve/MUIEAMbtqHKbQfUGJdAH4s-V8VhWqTdfD-wZ-6TNTdB7uVqnnQmlnvHs-ImlOsTGUyRydL9rkqLVTyoJ_ZTjAWI3WKUCC3lCDcDjQDxPFFZNhwkMOstgN-ljgFc4PvnWzRtiDyDKFhJixV-ZZ_XQcuAZPzY3_gcGMM-aHmjZVNVXE_VNw73M3XxXKQvarnPJfSfMsy30s14pc6tZ) en mis niks
+    - title : Twitter
+      icon : ti-twitter # themify icon pack : https://themify.me/themify-icons
+      content : Volg ons op [Twitter](https://twitter.com/teslamonitor_nl) en mis niks
+
+    #   # feature item loop
+    # - title : Email
+    #   icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    #   content : Ontvang de snel leverbare Model 3's in je [inbox](https://ba16ee91.sibforms.com/serve/MUIEAMbtqHKbQfUGJdAH4s-V8VhWqTdfD-wZ-6TNTdB7uVqnnQmlnvHs-ImlOsTGUyRydL9rkqLVTyoJ_ZTjAWI3WKUCC3lCDcDjQDxPFFZNhwkMOstgN-ljgFc4PvnWzRtiDyDKFhJixV-ZZ_XQcuAZPzY3_gcGMM-aHmjZVNVXE_VNw73M3XxXKQvarnPJfSfMsy30s14pc6tZ) en mis niks
       
       # feature item loop
     - title : 1500 km gratis
