@@ -1,9 +1,24 @@
 <head>
 	<meta charset="utf-8">
 	<title>{{ .Title }}</title>
-	<meta property='og:title' content='{{ .Title }}'/>
-	<meta property='og:image' content='https://www.teslamonitor.nl/images/logo%202500x571.png'/>
-	<meta property='og:description' content='{{ site.Params.description }}'/>
+	<meta name="twitter:card" content="summary_large_image" />
+	<link rel="shortlink" href="https://www.teslamonitor.nl/" />
+	<meta property="og:site_name" content="Teslamonitor" />
+	<meta name="twitter:site" content="@teslamonitor_nl" />
+	<meta name="twitter:title" content="{{ .Title }}" />
+	<meta property="og:type" content="website" />
+	<meta name="twitter:description" content="{{ site.Params.description }}" />
+	<meta property="og:url" content="https://www.teslamonitor.nl/" />
+	<meta name="twitter:creator" content="@teslamonitor_nl" />
+	<meta property="og:title" content="{{ .Title }}" />
+	<link rel="image_src" href="https://www.teslamonitor.nl/images/logo%202500x571.png" />
+	<meta name="keywords" content="Tesla, Model 3, Direct leverbaar" />
+	<meta property="og:description" content="{{ site.Params.description }}" />
+	<meta name="twitter:url" content="https://www.teslamonitor.nl/" />
+	<meta name="twitter:image" content="https://www.teslamonitor.nl/images/logo%202500x571.png" />
+	<meta property="og:image" content="https://www.teslamonitor.nl/images/logo%202500x571.png" />
+	<meta property="og:image:url" content="https://www.teslamonitor.nl/images/logo%202500x571.png" />
+	<meta property="og:image:secure_url" content="https://www.teslamonitor.nl/images/logo%202500x571.png" />
 
 	{{ "<!-- mobile responsive meta -->" | safeHTML }}
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
