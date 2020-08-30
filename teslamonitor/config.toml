@@ -27,7 +27,7 @@ name = "teslacom"
 weight = 100
 [params]
 author = "Datema Solutions"
-description = "Direct leverbare Tesla Model 3's in je inbox of als pushmelding op je telefoon. Wees als eerste op de hoogte van direct beschikbare Model 3's online"
+description = "Direct leverbare Tesla Model 3's op Twitter of als pushmelding op je telefoon. Wees als eerste op de hoogte van direct beschikbare Model 3's online"
 google_analytics_id = "G-0583XNGR5X"
 logo = "images/logo.png"
 post_share = true
