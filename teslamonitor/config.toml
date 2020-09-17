@@ -1,11 +1,11 @@
-baseURL = "https://teslamonitor.netlify.app/"
+baseURL = "https://www.teslamonitor.nl/"
+defaultContentLanguage = "nl"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "teslamonitor-hugo"
 title = "Als eerste op de hoogte van direct leverbare Tesla's | Teslamonitor"
-defaultContentLanguage = "nl"
 [Languages.nl]
 contentDir = "content/nederlands"
 copyright = "Copyright &copy; 2020 [Datema Solutions](http://www.datemasolutions.nl) All right reserved"
